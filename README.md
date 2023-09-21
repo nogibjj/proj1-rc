@@ -70,12 +70,12 @@ Status badges for each makefile commands are displayed below. CI.yml includes al
 
 #### Correlation between weight and mpg with respect to origins
 
-![plot1](![Alt text](scatter_mpg.png))
+![plot1](![Alt text](/Users/rui/proj1-rc-1/scatter_mpg.png))
 
 
 #### Correlation between weight and acceleraton with respect to year
 
-![plot2](![Alt text](scatter_mpg.png))
+![plot2](![Alt text](/Users/rui/proj1-rc-1/scatter_mpg.png))
 
 #### Fitted correlation between weight and acceleraton with respect to year
 
