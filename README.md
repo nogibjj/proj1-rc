@@ -68,18 +68,21 @@ Status badges for each makefile commands are displayed below. CI.yml includes al
 
 ## Visualizations
 
-#### Correlation between weight and mpg with respect to origins
+#### Relation between car weight and mpg with 
+![image](https://github.com/nogibjj/proj1-rc/assets/123079408/d236458b-8c93-4c6a-bf97-d700c71607a9)
 
-![plot1](![Alt text](/Users/rui/proj1-rc-1/scatter_mpg.png))
 
 
-#### Correlation between weight and acceleraton with respect to year
+#### Relation between car weight and acceleraton 
 
-![plot2](![Alt text](/Users/rui/proj1-rc-1/scatter_mpg.png))
+![image](https://github.com/nogibjj/proj1-rc/assets/123079408/ad97e915-2ffe-4057-b4be-50e755b45ab6)
 
-#### Fitted correlation between weight and acceleraton with respect to year
 
-![plot3](/Users/rui/proj1-rc-1/fitted_acc.png)
+
+#### Fitted relation between car weight and acceleraton 
+![image](https://github.com/nogibjj/proj1-rc/assets/123079408/c1d38d0b-1cdd-4970-ba7a-d9826aea7d84)
+
+
 
 ## Conclusion
 
