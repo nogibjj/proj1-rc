@@ -80,7 +80,8 @@ Status badges for each makefile commands are displayed below. CI.yml includes al
 
 
 #### Fitted relation between car weight and acceleraton 
-![image](https://github.com/nogibjj/proj1-rc/assets/123079408/c1d38d0b-1cdd-4970-ba7a-d9826aea7d84)
+![image](https://github.com/nogibjj/proj1-rc/assets/123079408/e1fa1b6e-1a52-48c4-a396-013e79454967)
+
 
 
 
