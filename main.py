@@ -5,14 +5,12 @@ import pandas as pd
 def main():
     """Main function to call data visualization functions"""
 
-    data = "project1/Auto.csv"
+    data = "Cars.csv"
     
     summary = lib.describe_dataset(data)
     print(summary)
 
     lib.scatter_mpg(data)
-
-    lib.fitted_mpg(data)
 
     lib.scatter_acc(data)
 
