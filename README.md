@@ -68,7 +68,7 @@ Status badges for each makefile commands are displayed below. CI.yml includes al
 
 ## Visualizations
 
-#### Relation between car weight and mpg with 
+#### Relation between car weight and mpg
 ![image](https://github.com/nogibjj/proj1-rc/assets/123079408/d236458b-8c93-4c6a-bf97-d700c71607a9)
 
 
@@ -87,4 +87,4 @@ Status badges for each makefile commands are displayed below. CI.yml includes al
 
 ## Conclusion
 
-We encourage and appreciate contributions! If you have any suggestions, improvements, or notice any issues or inconsistencies, please feel free to contribute by submitting a pull request or opening an issue. Your input is valuable and helps enhance the project.
+Contributions are encouraged and appreciated ! If you have any suggestions, improvements, or notice any issues or inconsistencies, please feel free to contribute by submitting a pull request or opening an issue. Your input is valuable and helps enhance the project.
